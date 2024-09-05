@@ -13,6 +13,8 @@ class NetworkManager {
     static let shared = NetworkManager()
     private let baseURL = "https://dummyjson.com"
     
+    private init() {} //Why init?
+    
     func getData() async throws -> [Product] {
         let endpoint = baseURL + "/carts"
         

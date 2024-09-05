@@ -16,6 +16,8 @@
 		B12C21792C7CB67000EC58D0 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12C21782C7CB67000EC58D0 /* HomeVC.swift */; };
 		B12C217B2C7CB70D00EC58D0 /* ViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12C217A2C7CB70D00EC58D0 /* ViewCell.swift */; };
 		B12C217D2C7CBCBE00EC58D0 /* ProductDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B12C217C2C7CBCBD00EC58D0 /* ProductDetailVC.swift */; };
+		B13E37FD2C88BC6600CF628F /* HomeVC+TableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13E37FC2C88BC6600CF628F /* HomeVC+TableView.swift */; };
+		B13E38032C88C1C000CF628F /* ProductListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B13E38022C88C1C000CF628F /* ProductListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		B12C21782C7CB67000EC58D0 /* HomeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
 		B12C217A2C7CB70D00EC58D0 /* ViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCell.swift; sourceTree = "<group>"; };
 		B12C217C2C7CBCBD00EC58D0 /* ProductDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailVC.swift; sourceTree = "<group>"; };
+		B13E37FC2C88BC6600CF628F /* HomeVC+TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HomeVC+TableView.swift"; sourceTree = "<group>"; };
+		B13E38022C88C1C000CF628F /* ProductListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				B12C217A2C7CB70D00EC58D0 /* ViewCell.swift */,
 				B12C217C2C7CBCBD00EC58D0 /* ProductDetailVC.swift */,
 				B12C21782C7CB67000EC58D0 /* HomeVC.swift */,
+				B13E37FC2C88BC6600CF628F /* HomeVC+TableView.swift */,
+				B13E38022C88C1C000CF628F /* ProductListViewModel.swift */,
 			);
 			path = DummyJSON;
 			sourceTree = "<group>";
@@ -150,6 +156,8 @@
 				B12C21772C7CB50E00EC58D0 /* NetworkError.swift in Sources */,
 				B12C21792C7CB67000EC58D0 /* HomeVC.swift in Sources */,
 				B12C217B2C7CB70D00EC58D0 /* ViewCell.swift in Sources */,
+				B13E38032C88C1C000CF628F /* ProductListViewModel.swift in Sources */,
+				B13E37FD2C88BC6600CF628F /* HomeVC+TableView.swift in Sources */,
 				B12C217D2C7CBCBE00EC58D0 /* ProductDetailVC.swift in Sources */,
 				B12C21612C7CA04F00EC58D0 /* SceneDelegate.swift in Sources */,
 				B12C21732C7CA2D500EC58D0 /* Carts.swift in Sources */,
